@@ -1,23 +1,24 @@
-# programming-languages-overview
+# Programming languages overview
 
-A collaborative guide by [Purity,Winnie and Ngatia].
+A collaborative guide by Purity, Winnie and Ngatia.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [VS Code](#vs-code)
-- [Notion](#notion)
-- [Canva](#canva)
+- [Html/css](#html/css)
+- [Python](#python)
+- [Javascript](#javascript)
 
 ## Introduction
-This guide covers tools that every student should know about.
+This guide covers programming languages that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
-<!-- [Team Member 1 Name] will write this section -->
+## Html/css
+<!-- [Winnie] will write this section -->
 
-## Notion
-<!-- [Team Member 2 Name] will write this section -->
+## Python
+<!-- [Purity] will write this section -->
 
-## Canva
-<!-- [Team Member 3 Name] will write this section -->
+## Javascript
+<!-- [Ngatia] will write this section -->
+
 Set up project structure
