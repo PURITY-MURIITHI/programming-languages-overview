@@ -5,9 +5,9 @@ A collaborative guide by Purity, Winnie and Ngatia.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Html/css](#html/css)
-- [Python](#python)
 - [Javascript](#javascript)
-
+- [Python](#python)
+- 
 ## Introduction
 This guide covers programming languages that every student should know about.
 Each section is written by a different team member.
@@ -36,9 +36,11 @@ It runs in the browser and on servers using environments like Node.js.
 ### Learning Resources
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript.info](https://javascript.info/)
----
+
+## Python
+
 **Python** is a high-level popular programming language that's easy to read and write, much like plain *English*. First released in 1991 by `Guido van Rossum`, it powers everything from websites to data analysis and games.
----
+
 ### Why Students Should Use It
 - It works on any OS and integrates well with other languages.
 - It uses simple indentation instead of brackets to organize code making it easy to read and reduce on errors.
