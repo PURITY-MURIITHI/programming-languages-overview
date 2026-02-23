@@ -54,6 +54,11 @@ console.log(greet("Student"));
 - Its huge library of ready-made tools makes it ideal for web development,data analysis,AI,machine learning and more.
 - Python teaches step-by-step problem-solving and breaks down complex tasks.
 ---
+### Python for professionals
+- Rapid productivity gains using fewer lines of code.
+- Cross industry dominance.
+- Future proof investment.
+---
 ### How to Get Started
 1. Download it from [download.python.org](https://www.python.org/downloads//).
 2. Run it, check "Add python.exe to PATH" at the bottom, then click "Install Now" *use admin rights if needed*.
