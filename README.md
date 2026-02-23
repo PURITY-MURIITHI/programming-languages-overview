@@ -7,7 +7,7 @@ A collaborative guide by Purity, Winnie and Ngatia.
 - [Html/css](#html/css)
 - [Javascript](#javascript)
 - [Python](#python)
-- 
+  
 ## Introduction
 This guide covers programming languages that every student should know about.
 Each section is written by a different team member.
