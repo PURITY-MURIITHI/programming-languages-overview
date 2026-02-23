@@ -15,7 +15,27 @@ Each section is written by a different team member.
 ## Html/css
 <!-- [Winnie] will write this section -->
 
-## Python
+
+## JavaScript
+
+**JavaScript** is a high-level, versatile programming language primarily used to build interactive and dynamic web applications.
+It runs in the browser and on servers using environments like Node.js.
+
+### Why JavaScript Is Important
+- It is the core language of the web.
+- It works on both frontend and backend.
+- It has a large ecosystem and community.
+- It is widely used in modern frameworks and tools.
+
+### Common Uses
+- Building interactive websites
+- Frontend frameworks like React and Vue
+- Backend development with Node.js
+- Desktop and mobile applications
+
+### Learning Resources
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript.info](https://javascript.info/)
 ---
 **Python** is a high-level popular programming language that's easy to read and write, much like plain *English*. First released in 1991 by `Guido van Rossum`, it powers everything from websites to data analysis and games.
 ---
@@ -34,7 +54,7 @@ Each section is written by a different team member.
 - [Python 3.14.3 Documentation](https://docs.python.org/3/)
 - [Python tutorials for programmers](https://docs.python.org/3/tutorial/index.html)
 ---
-## Javascript
-<!-- [Ngatia] will write this section -->
+
+main
 
 Set up project structure
