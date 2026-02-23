@@ -13,8 +13,44 @@ This guide covers programming languages that every student should know about.
 Each section is written by a different team member.
 
 ## Html/css
-<!-- [Winnie] will write this section -->
 
+### What HTML Stands For
+**HTML** stands for **HyperText Markup Language**.  
+It is the standard language used to structure content on the web.
+
+### What HTML Is Used For
+HTML is used to define the **structure and content** of a web page. With HTML, you can:
+- Create headings, paragraphs, and lists
+- Add links, images, tables, and forms
+- Organize content using elements like headers, sections, and footers
+
+HTML focuses on *what* content appears on a page, not how it looks.
+
+---
+
+### What CSS Stands For
+**CSS** stands for **Cascading Style Sheets**.  
+It is the language used to style and design web pages.
+
+### What CSS Is Used For
+CSS controls the **visual appearance** of a website. It is used to:
+- Set colors, fonts, and backgrounds
+- Control spacing, alignment, and layout
+- Make websites responsive for different screen sizes
+
+CSS focuses on *how* the content looks.
+
+---
+
+### Where HTML and CSS Fit in Web Development
+HTML and CSS form the **foundation of front-end web development**.
+
+In a typical web stack:
+- **HTML** provides the structure
+- **CSS** handles the presentation and design
+- **JavaScript** adds interactivity and behavior
+
+Together, HTML and CSS allow developers to create well-structured, visually appealing web pages that users can view in any browser.
 
 ## JavaScript
 
