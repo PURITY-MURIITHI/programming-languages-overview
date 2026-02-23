@@ -68,7 +68,18 @@ console.log(greet("Student"));
 - [Python 3.14.3 Documentation](https://docs.python.org/3/)
 - [Python tutorials for programmers](https://docs.python.org/3/tutorial/index.html)
 ---
+## Indentation in python
+```python
+## Python uses indentation to define blocks of code. Consistent use of spaces (commonly 4) or a tab is required.
 
+age=32
+if age>30:
+    
+    print(age)
+    
+print(age)
+```
+---
 main
 
 Set up project structure
