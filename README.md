@@ -1,6 +1,6 @@
 # Programming languages overview
 
-A collaborative guide by Purity, Winnie and Ngatia.
+A collaborative guide by Purity, Winnie , Ngatia and Wayne.
 
 ## Table of Contents
 - [Introduction](#introduction)
